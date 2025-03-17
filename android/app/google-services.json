@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "874248925376",
+    "project_id": "osprey-flutter",
+    "storage_bucket": "osprey-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874248925376:android:021d915055f41068b2fd25",
+        "android_client_info": {
+          "package_name": "com.example.osprey_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874248925376-2ffnljni6b8iduqiagqoe70uc31rfpeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osprey_app",
+            "certificate_hash": "15cbfb0b6d7b192a9aec4123041db1ccf7b356ab"
+          }
+        },
+        {
+          "client_id": "874248925376-nohf1qv1fc4lf0djj1j7b0qs5270rt44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_okg65Br3Vh-6knip0BvlXbTOptnDGwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874248925376-nohf1qv1fc4lf0djj1j7b0qs5270rt44.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874248925376-akrodtovag5hn3i5ckij5l9m7su33vka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ospreyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
